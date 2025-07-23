@@ -1,1 +1,3 @@
-print("Hello MNIST!")
+print("Hello MNIST! /n")
+
+
