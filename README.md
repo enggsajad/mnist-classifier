@@ -20,3 +20,5 @@ This project trains a deep learning model using **Keras** and **TensorFlow** to 
 1. Clone the repo:
 ```bash
 git clone https://github.com/enggsajad/mnist-classifier.git 
+pip install -r requirements.txt
+python train.py  # or run mnist_model.ipynb
